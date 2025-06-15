@@ -22,7 +22,8 @@ A fully responsive RazorPay clone built with HTML and Tailwind CSS that replicat
 - **🎬 Animations**: CSS transitions and transforms
 
 ## Project Structure 🗂️
-``razorpay-clone/
+```markdown
+razorpay-clone/
 ├── 📄 index.html # Main HTML file
 ├── 📁 src/
 │ └── 🎨 output.css # Compiled Tailwind CSS
@@ -33,4 +34,4 @@ A fully responsive RazorPay clone built with HTML and Tailwind CSS that replicat
 │ └── ... (other assets)
 ├── 🎥 PreviewVideo.mp4 # Demo video
 └── 📝 README.md # This file
-``
+
